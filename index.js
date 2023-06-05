@@ -1,4 +1,4 @@
-const apiKey=`sswjfxCuXCdpWCAKdzUx3UzDjNf5zchMBEPu0Kdz`;
+const apiKey=`I7xyVSiDDL0aGb6fz52986hbNx2u7C71dBJRHvA2`;
 
 document.addEventListener('DOMContentLoaded', () => {
     getCurrentImageOfTheDay();
